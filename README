@@ -1,0 +1,22 @@
+ +---------------------------------------------------------------------------------+
+ |  This file is part of the KinectMotionRecorder library.                         |
+ |										   |
+ |  KinectMotionRecorder is free software: you can redistribute it and/or modify   |
+ |  it under the terms of the GNU General Public License as published by           |
+ |  the Free Software Foundation, either version 3 of the License, or              |
+ |  (at your option) any later version.                                            |
+ |          									   |
+ |  KinectMotionRecorder is distributed in the hope that it will be useful,        |
+ |  but WITHOUT ANY WARRANTY; without even the implied warranty of                 |
+ |  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the                  |
+ |  GNU General Public License for more details.				   |
+ |										   |
+ |  You should have received a copy of the GNU General Public License		   |
+ |  along with KinectMotionRecorder.  If not, see <http://www.gnu.org/licenses/>.  |
+ +---------------------------------------------------------------------------------+
+
+This project provides a simple code library that can be used to connect to the Microsoft Kinect
+using SDK v. 1.0 released January 2012 and record skeleton motion over time that can be applied
+to other projects such as my NaoKinectMotionProxy.
+
+In-line documentation is provided for the majority of the code.
